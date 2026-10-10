@@ -1,4 +1,4 @@
-# MindwareOS MindwareUtil - Cool Edition
+# MindwareOS MindwareUtil 
 
 **Made by Kuljeet** | Version 1.0  
 Platform: Arch Linux / Arch-based distributions  
