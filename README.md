@@ -34,24 +34,24 @@ MindwareUtil is a **modular Bash utility** designed to simplify system setup on 
 
 1. **Save and make executable:**
 ```bash
-chmod +x ~/mindwareutil.sh
+chmod +x ~/.mindwareutil.sh
 ```
 
 2. **Run the script:**
 
 Full automatic install:
 ```bash
-~/mindwareutil.sh
+~/.mindwareutil.sh
 ```
 
 Dry-run (preview actions):
 ```bash
-~/mindwareutil.sh --dry-run
+~/.mindwareutil.sh --dry-run
 ```
 
 Interactive menu:
 ```bash
-~/mindwareutil.sh --menu
+~/.mindwareutil.sh --menu
 ```
 
 3. **Logs:**  
